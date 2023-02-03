@@ -24,3 +24,8 @@ Show All Completed Todo:
 
 Show A Specific Todo:
 ![Home Page](client/public/show_todo.png)
+
+
+Show A Specific Completed Todo:
+![Home Page](client/public/completed_todo.png)
+
