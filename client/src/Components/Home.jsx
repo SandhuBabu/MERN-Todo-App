@@ -14,7 +14,7 @@ const Home = () => {
         e.preventDefault();
 
         // form validation
-        if (title === ' ' || desc === '')
+        if (title.length === 0 || desc.length === 0)
             return
 
         let data = { title: title, desc: desc }
