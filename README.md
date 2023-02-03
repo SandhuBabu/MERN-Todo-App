@@ -16,17 +16,17 @@ Home Page/Add Todo:
 
 
 Show All Todos To Complete:
-![Home Page](client/public/todo.png)
+![all todos to complete](client/public/todo.png)
 
 
 Show All Completed Todo:
-![Home Page](client/public/completed.png)
+![all completed todos](client/public/completed.png)
 
 
-Show A Specific Todo:
-![Home Page](client/public/show_todo.png)
+Show A Specific Todo (not completed):
+![not completed todo titile and content](client/public/show_todo.png)
 
 
 Show A Specific Completed Todo:
-![Home Page](client/public/completed_todo.png)
+![completed todo](client/public/completed_todo.png)
 
