@@ -16,9 +16,9 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' exact element={<Home />} />
-          <Route path='/todo' exact element={<Todo />} />
-          <Route path='/todo/:id' exact element={<ShowTodo />} />
-          <Route path='/completed' exact element={<Completed />} />
+          <Route path='/todo' element={<Todo />} />
+          <Route path='/todo/:id' element={<ShowTodo />} />
+          <Route path='/completed' element={<Completed />} />
         </Routes>
         <Navigation/>
       </BrowserRouter>
