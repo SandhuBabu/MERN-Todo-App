@@ -2,6 +2,7 @@
 Mern stack todo app
 
 Todo App:
+
 Frontend: HTML, CSS, JavaScript, ReactJS
 
 Backend: NodeJS, ExpressJS, MongoDB, Mongoose
